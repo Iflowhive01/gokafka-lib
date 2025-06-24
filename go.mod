@@ -1,4 +1,4 @@
-module github.com/Vikey15/gokafka-lib
+module github.com/Iflowhive01/gokafka-libs
 
 go 1.23.0
 
