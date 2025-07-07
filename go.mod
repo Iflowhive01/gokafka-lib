@@ -1,4 +1,4 @@
-module github.com/Iflowhive01/gokafka-lib
+module github.com/iflowhiveapp/gokafka-lib
 
 go 1.23.0
 
